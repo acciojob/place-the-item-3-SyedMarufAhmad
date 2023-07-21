@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.items{
+	font-size:40px;
+}
+#one{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+#two{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+#three{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
